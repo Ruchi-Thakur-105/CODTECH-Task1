@@ -9,6 +9,8 @@ Duration: June to July 2024
 Overview of the project
 
 Project: To-Do-App Website
+![todo app screenshot](https://github.com/user-attachments/assets/c3bb6e76-186c-41ab-8f23-3a4f01746f46)
+
 
 Objective: Develop a responsive web application for managing tasks efficiently, providing users with a streamlined task management experience using html, CSS, and JavaScript.
 
